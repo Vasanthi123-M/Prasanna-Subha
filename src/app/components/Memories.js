@@ -34,20 +34,20 @@ export default function SweetMemories() {
 
           <div className='grid grid-cols-3 gap-x-10'>
             <div className='flex gap-10 flex-col '>
-              <Image src="/memories_1.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_2.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_3.png" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-1.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-2.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-3.jpg" alt='Image is missing' width={1000} height={1000}></Image>
 
             </div>
             <div className='flex flex-col gap-10'>
-              <Image src="/memories_4.png" alt='Image is missing' height={1000} width={1000}></Image>
-              <Image src="/memories_5.png" alt='Image is missing' height={1000} width={1000}></Image>
+              <Image src="/memories-4.jpg" alt='Image is missing' height={1000} width={1000}></Image>
+              <Image src="/memories-5.jpg" alt='Image is missing' height={1000} width={1000}></Image>
 
             </div>
 
             <div className='flex gap-10 flex-col '>
-              <Image src="/memories_6.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_7.png" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-6.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-7.jpg" alt='Image is missing' width={1000} height={1000}></Image>
 
             </div>
 
@@ -77,20 +77,20 @@ export default function SweetMemories() {
 
           <div className='grid grid-cols-3 gap-x-5'>
             <div className='flex gap-5 flex-col '>
-              <div data-aos="fade-up"> <Image src="/memories_1.png" alt='Image is missing' width={1000} height={1000} ></Image></div>
-              <div data-aos="fade-up">  <Image src="/memories_2.png" alt='Image is missing' width={1000} height={1000}></Image></div>
-              <div data-aos="fade-up"> <Image src="/memories_3.png" alt='Image is missing' width={1000} height={1000}></Image></div>
+              <div data-aos="fade-up"> <Image src="/memories-1.jpg" alt='Image is missing' width={1000} height={1000} ></Image></div>
+              <div data-aos="fade-up">  <Image src="/memories-2.jpg" alt='Image is missing' width={1000} height={1000}></Image></div>
+              <div data-aos="fade-up"> <Image src="/memories-3.jpg" alt='Image is missing' width={1000} height={1000}></Image></div>
 
             </div>
             <div className='flex flex-col gap-5'>
-              <div data-aos="fade-up"><Image src="/memories_4.png" alt='Image is missing' height={1000} width={1000}></Image></div>
-              <div data-aos="fade-up"><Image src="/memories_5.png" alt='Image is missing' height={1000} width={1000}></Image></div>
+              <div data-aos="fade-up"><Image src="/memories-4.jpg" alt='Image is missing' height={1000} width={1000}></Image></div>
+              <div data-aos="fade-up"><Image src="/memories-5.jpg" alt='Image is missing' height={1000} width={1000}></Image></div>
 
             </div>
 
             <div className='flex gap-5 flex-col '>
-              <div data-aos="fade-up"> <Image src="/memories_6.png" alt='Image is missing' width={1000} height={1000}></Image></div>
-              <div data-aos="fade-up"> <Image src="/memories_7.png" alt='Image is missing' width={1000} height={1000}></Image></div>
+              <div data-aos="fade-up"> <Image src="/memories-6.jpg" alt='Image is missing' width={1000} height={1000}></Image></div>
+              <div data-aos="fade-up"> <Image src="/memories-7.jpg" alt='Image is missing' width={1000} height={1000}></Image></div>
 
             </div>
 
@@ -124,20 +124,20 @@ export default function SweetMemories() {
 
           <div className='flex flex-col gap-10'>
             <div className='flex gap-10 flex-col '>
-              <Image src="/memories_1.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_2.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_3.png" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-1.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-2.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-3.jpg" alt='Image is missing' width={1000} height={1000}></Image>
 
             </div>
             <div className='flex gap-10 flex-col'>
-              <Image src="/memories_4.png" alt='Image is missing' height={1000} width={1000}></Image>
-              <Image src="/memories_5.png" alt='Image is missing' height={1000} width={1000}></Image>
+              <Image src="/memories-4.jpg" alt='Image is missing' height={1000} width={1000}></Image>
+              <Image src="/memories-5.jpg" alt='Image is missing' height={1000} width={1000}></Image>
 
             </div>
 
             <div className='flex gap-10 flex-col'>
-              <Image src="/memories_6.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_7.png" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-6.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-7.jpg" alt='Image is missing' width={1000} height={1000}></Image>
 
             </div>
 
@@ -166,20 +166,20 @@ export default function SweetMemories() {
 
           <div className='flex flex-col gap-4'>
             <div className='flex gap-6 flex-col '>
-              <Image src="/memories_1.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_2.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_3.png" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-1.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-2.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-3.jpg" alt='Image is missing' width={1000} height={1000}></Image>
 
             </div>
             <div className='flex gap-6 flex-col'>
-              <Image src="/memories_4.png" alt='Image is missing' height={1000} width={1000}></Image>
-              <Image src="/memories_5.png" alt='Image is missing' height={1000} width={1000}></Image>
+              <Image src="/memories-4.jpg" alt='Image is missing' height={1000} width={1000}></Image>
+              <Image src="/memories-5.jpg" alt='Image is missing' height={1000} width={1000}></Image>
 
             </div>
 
             <div className='flex gap-6 flex-col'>
-              <Image src="/memories_6.png" alt='Image is missing' width={1000} height={1000}></Image>
-              <Image src="/memories_7.png" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-6.jpg" alt='Image is missing' width={1000} height={1000}></Image>
+              <Image src="/memories-7.jpg" alt='Image is missing' width={1000} height={1000}></Image>
 
             </div>
 

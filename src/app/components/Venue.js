@@ -18,7 +18,7 @@ export default function WeddingScheduleGrid() {
           {/* LEFT TOP */}
           <div className="relative  border-[#e7cfc7]  flex items-center justify-center m-4">
             <div className="relative">
-              <Image src="/our_wedding_1.png" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-1.jpg" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
            
             </div>
 
@@ -44,7 +44,7 @@ export default function WeddingScheduleGrid() {
           {/* RIGHT TOP */}
           <div className="relative border border-[#e7cfc7] flex items-center justify-center p-4">
             <div className="relative">
-              <Image src="/our_wedding_3.png" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-3.jpg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
            
             </div>
 
@@ -60,14 +60,13 @@ export default function WeddingScheduleGrid() {
 
             </p>
                   <p className="text-gray-600 text-[1.2vw] text-center p-6 font-2 ">
-             Our Lady of Seven Dolours Church
-Palakarai, Sangillyandapuram
-Tiruchirappalli, Tamil Nadu – 620001
+            Perumalappan Temple in Bandarahalli , Karimangalam , Dharmapuri , 
+ Tamil Nadu – 635123
             </p>
           </div>
 
           <div className="border  border-[#e7cfc7] flex items-center justify-center p-4">
-            <Image src="/our_wedding_2.png" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
+            <Image src="/our-wedding-2.jpeg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
          </div>
 
           <div className="border border-[#e7cfc7]  items-center flex flex-col justify-center ">
@@ -79,8 +78,7 @@ Tiruchirappalli, Tamil Nadu – 620001
 <br />
 
 
-Mr.
-Levis +91 95140 15093
+Mr.Prasanna +91 8667676919
             </p>
 
             
@@ -104,7 +102,7 @@ Levis +91 95140 15093
           {/* LEFT TOP */}
           <div className="relative  border-[#e7cfc7]  flex items-center justify-center m-4">
             <div className="relative">
-              <Image src="/our_wedding_1.png" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-1.jpg" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
            
             </div>
 
@@ -130,7 +128,7 @@ Levis +91 95140 15093
           {/* RIGHT TOP */}
           <div className="relative border border-[#e7cfc7] flex items-center justify-center p-4">
             <div className="relative">
-              <Image src="/our_wedding_3.png" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-3.jpg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
            
             </div>
 
@@ -146,14 +144,14 @@ Levis +91 95140 15093
 
             </p>
                   <p className="text-gray-600 text-[1.2vw] text-center p-6 font-2 ">
-             Our Lady of Seven Dolours Church
-Palakarai, Sangillyandapuram
-Tiruchirappalli, Tamil Nadu – 620001
+            Perumalappan Temple in Bandarahalli , Karimangalam , Dharmapuri , 
+ Tamil Nadu – 635123
             </p>
           </div>
 
+
           <div className="border  border-[#e7cfc7] flex items-center justify-center p-4">
-            <Image src="/our_wedding_2.png" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
+            <Image src="/our-wedding-2.jpeg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
          </div>
 
           <div className="border border-[#e7cfc7]  items-center flex flex-col justify-center ">
@@ -164,7 +162,7 @@ Tiruchirappalli, Tamil Nadu – 620001
            For any assistance or details, feel free to reach out:
 <br />
 Mr.
-Levis +91 95140 15093
+Prasanna +91 8667676919
             </p>
           </div>
 
@@ -187,7 +185,7 @@ Levis +91 95140 15093
           {/* LEFT TOP */}
           <div className="relative  border-[#e7cfc7]  flex items-center justify-center m-4">
             <div className="relative">
-              <Image src="/our_wedding_1.png" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-1.jpg" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
               <div className="absolute inset-0 flex items-center justify-center">
             
               </div>
@@ -210,7 +208,7 @@ Levis +91 95140 15093
           {/* RIGHT TOP */}
           <div className="relative border border-[#e7cfc7] flex items-center justify-center p-4">
             <div className="relative">
-              <Image src="/our_wedding_2.png" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our-wedding-2.jpeg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
               <div className="absolute inset-0 flex items-center justify-center">
                
               </div>
@@ -226,16 +224,15 @@ Levis +91 95140 15093
 
             </p>
                   <p className="text-gray-600 text-[4vw] text-center p-6 font-2 ">
-             Our Lady of Seven Dolours Church
-Palakarai, Sangillyandapuram
-Tiruchirappalli, Tamil Nadu – 620001
+            Perumalappan Temple in Bandarahalli , Karimangalam , Dharmapuri , 
+ Tamil Nadu – 635123
             </p>
   
 
           </div>
 
           <div className="border  border-[#e7cfc7] flex items-center justify-center p-4">
-            <Image src="/our_wedding_3.png" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
+            <Image src="/our_wedding-3.jpg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
 <div className="absolute  flex items-center justify-center">
                
               </div>          </div>
@@ -248,7 +245,7 @@ Tiruchirappalli, Tamil Nadu – 620001
            For any assistance or details, feel free to reach out:
 <br />
 Mr.
-Levis +91 95140 15093
+Prasanna +91 8667676919
             </p>
         </div>
 
@@ -271,7 +268,7 @@ Levis +91 95140 15093
           {/* LEFT TOP */}
           <div className="relative  border-[#e7cfc7]  flex items-center justify-center m-4">
             <div className="relative">
-              <Image src="/our_wedding_1.png" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-1.jpg" alt="Reception" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
               <div className="absolute inset-0 flex items-center justify-center">
             
               </div>
@@ -294,7 +291,7 @@ Levis +91 95140 15093
           {/* RIGHT TOP */}
           <div className="relative border border-[#e7cfc7] flex items-center justify-center p-4">
             <div className="relative">
-              <Image src="/our_wedding_2.png" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our_wedding-2.jpeg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
               <div className="absolute inset-0 flex items-center justify-center">
                
               </div>
@@ -310,16 +307,15 @@ Levis +91 95140 15093
 
             </p>
                   <p className="text-gray-600 text-[4vw] text-center p-6 font-2 ">
-             Our Lady of Seven Dolours Church
-Palakarai, Sangillyandapuram
-Tiruchirappalli, Tamil Nadu – 620001
+            Perumalappan Temple in Bandarahalli , Karimangalam , Dharmapuri , 
+ Tamil Nadu – 635123
             </p>
   
 
           </div>
 
           <div className="border  border-[#e7cfc7] flex items-center justify-center p-4">
-            <Image src="/our_wedding_3.png" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
+            <Image src="/our_wedding-3.jpg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
 <div className="absolute  flex items-center justify-center">
                
               </div>          </div>
@@ -336,7 +332,7 @@ Tiruchirappalli, Tamil Nadu – 620001
                                     <p className="text-gray-600 text-[4vw] text-center  font-2 ">
  
 Mr.
-Levis +91 95140 15093
+Prasanna +91 8667676919
             </p>
         </div>
 

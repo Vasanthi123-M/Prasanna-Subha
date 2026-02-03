@@ -19,7 +19,7 @@ export default function CoupleSection() {
           <div className="mb-10 flex justify-center">
             <div className="w-full h-full  overflow-hidden">
               <Image
-                src="/Bride.png" // change image if needed
+                src="/Groom1.png" // change image if needed
                 alt="Daniel Oliver"
                 width={1000}
                 height={1000}
@@ -30,13 +30,15 @@ export default function CoupleSection() {
 
           {/* Name */}
           <h3 className=" text-[4.3vw]  text-[#1f2d3d] mb-2 font-4">
-            Levis
+                      Subha
           </h3>
 
           {/* Description */}
           <p className="text-[1.1vw] font-7 text-[#7a8a9a] leading-relaxed">
-        A calm and caring soul with strong values.
-Always supportive, always loving — a perfect partner in every way  </p>
+             A beautiful smile, a kind heart, and a strong mind.
+She brings warmth, happiness, and love wherever she goes
+
+         </p>
         </div>
 
         <div className=" ">
@@ -54,7 +56,7 @@ Always supportive, always loving — a perfect partner in every way  </p>
           <div className="flex justify-center mb-10">
             <div className="w-full h-full   overflow-hidden">
               <Image
-                src="/Groom.png" // change image if needed
+                src="/Bride1.png" // change image if needed
                 alt="Sarah Margrate"
                 width={1000}
                 height={1000}
@@ -65,13 +67,14 @@ Always supportive, always loving — a perfect partner in every way  </p>
 
           {/* Name */}
           <h3 className="text-base text-[4.3vw]  text-[#1f2d3d] mb-2 font-4 ">
-         Rose
+        Prasanna
           </h3>
 
           {/* Description */}
           <p className="text-[1.1vw] font-7 text-[#7a8a9a] leading-relaxed">
-         A beautiful smile, a kind heart, and a strong mind.
-She brings warmth, happiness, and love wherever she goes
+        
+A calm and caring soul with strong values.
+Always supportive, always loving — a perfect partner in every way 
           </p>
         </div>
 
@@ -91,24 +94,25 @@ She brings warmth, happiness, and love wherever she goes
           <div className="mb-10 flex justify-center">
             <div className="w-full h-full  overflow-hidden">
               <Image
-                src="/Bride.png" // change image if needed
-                alt="Daniel Oliver"
+                    src="/Groom1.png" // change image if needed
+                alt="Sarah Margrate"
                 width={1000}
                 height={1000}
-                className="object-cover  w-[320] h-[320] rounded-full "
+                className="object-cover w-[320] h-[320] rounded-full -rotate-360"
               />
             </div>
           </div>
 
           {/* Name */}
           <h3 className=" text-[4.3vw]  text-[#1f2d3d] mb-2 font-4">
-            Levis
+                       Subha
           </h3>
 
           {/* Description */}
           <p className="text-[1.1vw] font-7 text-[#7a8a9a] leading-relaxed">
-        A calm and caring soul with strong values.
-Always supportive, always loving — a perfect partner in every way  </p>
+     
+ A beautiful smile, a kind heart, and a strong mind.
+She brings warmth, happiness, and love wherever she goes</p>
         </div>
 
         <div className=" ">
@@ -126,24 +130,26 @@ Always supportive, always loving — a perfect partner in every way  </p>
           <div className="flex justify-center mb-10">
             <div className="w-full h-full   overflow-hidden">
               <Image
-                src="/Groom.png" // change image if needed
-                alt="Sarah Margrate"
+                 src="/Bride1.png" // change image if needed
+                alt="Daniel Oliver"
                 width={1000}
                 height={1000}
-                className="object-cover w-[320] h-[320] rounded-full"
+                className="object-cover  w-[320] h-[320] rounded-full "
+
               />
             </div>
           </div>
 
           {/* Name */}
           <h3 className="text-base text-[4.3vw]  text-[#1f2d3d] mb-2 font-4 ">
-         Rose
+     Prasanna
           </h3>
 
           {/* Description */}
           <p className="text-[1.1vw] font-7 text-[#7a8a9a] leading-relaxed">
-         A beautiful smile, a kind heart, and a strong mind.
-She brings warmth, happiness, and love wherever she goes
+           A calm and caring soul with strong values.
+Always supportive, always loving — a perfect partner in every way  
+
           </p>
         </div>
 
@@ -161,7 +167,7 @@ She brings warmth, happiness, and love wherever she goes
           
             <div className="w-full h-full overflow-hidden mb-4 flex justify-center items-center">
               <Image
-                src="/Bride.png" // change image if needed
+                src="/Groom1.png" // change image if needed
                 alt="Daniel Oliver"
                 width={1000}
                 height={1000}
@@ -172,13 +178,14 @@ She brings warmth, happiness, and love wherever she goes
 
           {/* Name */}
           <h3 className="text-[9.8vw] font-semibold text-[#1f2d3d] mb-2 font-4">
-            Levis
+                   Subha
           </h3>
 
           {/* Description */}
           <p className="text-[4.2vw] font-7 text-[#7a8a9a] ">
-        A calm and caring soul with strong values.
-Always supportive, always loving — a perfect partner in every way  </p>
+             A beautiful smile, a kind heart, and a strong mind.
+She brings warmth, happiness, and love wherever she goes
+         </p>
         </div>
 
           <Image
@@ -194,7 +201,7 @@ Always supportive, always loving — a perfect partner in every way  </p>
           
             <div className="w-full h-full mb-4 flex justify-center  overflow-hidden">
               <Image
-                src="/Groom.png" // change image if needed
+                src="/Bride1.png" // change image if needed
                 alt="Sarah Margrate"
                 width={1000}
                 height={1000}
@@ -205,13 +212,14 @@ Always supportive, always loving — a perfect partner in every way  </p>
 
           {/* Name */}
           <h3 className=" text-[9.8vw] font-semibold  text-[#1f2d3d] mb-2 font-4 ">
-           Rose
+          Prasanna
           </h3>
 
           {/* Description */}
           <p className="text-[4.2vw] font-7 text-[#7a8a9a]">
-       A beautiful smile, a kind heart, and a strong mind.
-She brings warmth, happiness, and love wherever she goes
+      
+A calm and caring soul with strong values.
+Always supportive, always loving — a perfect partner in every way 
           </p>
         </div>
 
@@ -233,7 +241,7 @@ She brings warmth, happiness, and love wherever she goes
           
             <div className="w-full h-full overflow-hidden mb-4 flex justify-center items-center">
               <Image
-                src="/Bride.png" // change image if needed
+                src="/Groom1.png" // change image if needed
                 alt="Daniel Oliver"
                 width={1000}
                 height={1000}
@@ -244,13 +252,14 @@ She brings warmth, happiness, and love wherever she goes
 
           {/* Name */}
           <h3 className="text-[9.8vw] font-semibold text-[#1f2d3d] mb-2 font-4">
-            Levis
+                    Subha
           </h3>
 
           {/* Description */}
           <p className="text-[4.2vw] font-7 text-[#7a8a9a] ">
-        A calm and caring soul with strong values.
-Always supportive, always loving — a perfect partner in every way  </p>
+   
+A beautiful smile, a kind heart, and a strong mind.
+She brings warmth, happiness, and love wherever she goes </p>
         </div>
 
           <Image
@@ -266,7 +275,7 @@ Always supportive, always loving — a perfect partner in every way  </p>
           
             <div className="w-full h-full mb-4 flex justify-center  overflow-hidden">
               <Image
-                src="/Groom.png" // change image if needed
+                src="/Bride1.png" // change image if needed
                 alt="Sarah Margrate"
                 width={1000}
                 height={1000}
@@ -277,13 +286,13 @@ Always supportive, always loving — a perfect partner in every way  </p>
 
           {/* Name */}
           <h3 className=" text-[9.8vw] font-semibold  text-[#1f2d3d] mb-2 font-4 ">
-           Rose
+          Prasanna
           </h3>
 
           {/* Description */}
           <p className="text-[4.2vw] font-7 text-[#7a8a9a]">
-       A beautiful smile, a kind heart, and a strong mind.
-She brings warmth, happiness, and love wherever she goes
+            A calm and caring soul with strong values.
+Always supportive, always loving — a perfect partner in every way 
           </p>
         </div>
 

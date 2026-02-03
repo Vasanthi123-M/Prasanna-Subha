@@ -17,10 +17,10 @@ function Navbar() {
           {/* Logo */}
           <li>
             <Image
-              src="/logo.png"
+              src="/logo_1.png"
               alt="logo"
-              width={230}
-              height={230}
+              width={200}
+              height={150}
               className="object-contain"
             />
           </li>
@@ -45,10 +45,10 @@ function Navbar() {
           {/* Logo */}
           <li>
             <Image
-              src="/logo.png"
+              src="/logo_1.png"
               alt="logo"
-              width={130}
-              height={130}
+              width={200}
+              height={150}
               className="object-contain"
             />
           </li>
@@ -78,11 +78,11 @@ function Navbar() {
 
           {/* Right Social Icons */}
               <div className="flex items-center gap-4 text-gray-700">
-            <Link href="https://www.instagram.com/levisrich?igsh=MWVvdDN1cnMwa2RtZw=="       target="_blank"
+            <Link href="https://www.facebook.com/profile.php?id=100006555729178"       target="_blank"
         rel="noopener noreferrer" aria-label="Facebook">
               <FaFacebookSquare className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
             </Link>
-            <Link href="https://www.instagram.com/roselineruby2502?igsh=MTlhZGZjMndmM2N5bw=="       target="_blank"
+            <Link href="https://www.instagram.com/prasanna7207?igsh=bDZsYmtsYXdkeHIx"       target="_blank"
         rel="noopener noreferrer" aria-label="Instagram">
               <FaInstagram className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
             </Link>
@@ -97,20 +97,20 @@ function Navbar() {
 
           {/* Left Logo */}
           <Image
-            src="/logo.png"
+            src="/logo_1.png"
             alt="logo"
-            width={70}
-            height={70}
+            width={130}
+            height={130}
             className="object-contain"
           />
 
           {/* Right Social Icons */}
           <div className="flex items-center gap-4 text-gray-700">
-            <Link href="https://www.instagram.com/levisrich?igsh=MWVvdDN1cnMwa2RtZw=="       target="_blank"
+            <Link href="https://www.facebook.com/profile.php?id=100006555729178"       target="_blank"
         rel="noopener noreferrer" aria-label="Facebook">
               <FaFacebookSquare className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
             </Link>
-            <Link href="https://www.instagram.com/roselineruby2502?igsh=MTlhZGZjMndmM2N5bw=="       target="_blank"
+            <Link href="https://www.instagram.com/prasanna7207?igsh=bDZsYmtsYXdkeHIx"       target="_blank"
         rel="noopener noreferrer" aria-label="Instagram">
               <FaInstagram className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
             </Link>

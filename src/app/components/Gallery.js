@@ -25,7 +25,7 @@ export default function Page() {
 
             <div className="overflow-hidden">
               <Image
-                src="/img-6.png"
+                src="/img-1.jpg"
                 alt="Wedding Photography"
                 width={1000}
                 height={700}
@@ -36,7 +36,7 @@ export default function Page() {
             <div className="mt-6">
 
               <h2 className="text-[3vw] font-1 text-center font-semibold mt-2">
-                Levis & Rose
+               Prasanna & Subha
               </h2>
 
 
@@ -51,7 +51,7 @@ export default function Page() {
             <div className="flex gap-4 justify-start items-center">
               <div className="w-40 h-40 shrink-0 overflow-hidden  ">
                 <Image
-                  src="/drive_1.png"
+                  src="/drive-1.jpg"
                   alt="Wedding Gown"
                   width={300}
                   height={300}
@@ -63,7 +63,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -77,7 +77,7 @@ export default function Page() {
             <div className="flex gap-4 justify-start items-center">
               <div className="w-40 h-40 shrink-0 overflow-hidden  ">
                 <Image
-                  src="/drive_2.png"
+                  src="/drive-2.jpg"
                   alt="Flower Decoration"
                   width={300}
                   height={300}
@@ -89,7 +89,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -103,7 +103,7 @@ export default function Page() {
             <div className="flex gap-4 justify-start items-center">
               <div className="w-40 h-40 shrink-0 overflow-hidden  ">
                 <Image
-                  src="/drive_3.png"
+                  src="/drive-3.jpg"
                   alt="Wedding Gift"
                   width={300}
                   height={300}
@@ -115,7 +115,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -150,7 +150,7 @@ export default function Page() {
 
             <div className="overflow-hidden">
               <Image
-                src="/img-6.png"
+                src="/img-1.jpg"
                 alt="Wedding Photography"
                 width={1000}
                 height={700}
@@ -161,7 +161,7 @@ export default function Page() {
             <div className="mt-6">
 
               <h2 className="text-[3vw] font-1 text-center font-semibold mt-2">
-                Levis & Rose
+               Prasanna & Subha
               </h2>
 
 
@@ -176,7 +176,7 @@ export default function Page() {
             <div className="flex gap-4 justify-start items-center">
               <div className="w-40 h-40 shrink-0 overflow-hidden  ">
                 <Image
-                  src="/drive_1.png"
+                  src="/drive-1.jpg"
                   alt="Wedding Gown"
                   width={300}
                   height={300}
@@ -188,7 +188,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -202,7 +202,7 @@ export default function Page() {
             <div className="flex gap-4 justify-start items-center">
               <div className="w-40 h-40 shrink-0 overflow-hidden  ">
                 <Image
-                  src="/drive_2.png"
+                  src="/drive-2.jpg"
                   alt="Flower Decoration"
                   width={300}
                   height={300}
@@ -214,7 +214,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -228,7 +228,7 @@ export default function Page() {
             <div className="flex gap-4 justify-start items-center">
               <div className="w-40 h-40 shrink-0 overflow-hidden  ">
                 <Image
-                  src="/drive_3.png"
+                  src="/drive-3.jpg"
                   alt="Wedding Gift"
                   width={300}
                   height={300}
@@ -240,7 +240,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -278,7 +278,7 @@ export default function Page() {
 
             <div className="overflow-hidden">
               <Image
-                src="/img-6.png"
+                src="/img-1.jpg"
                 alt="Wedding Photography"
                 width={1000}
                 height={400}
@@ -289,7 +289,7 @@ export default function Page() {
             <div className="mt-6">
 
               <h2 className="text-[7.5vw] font-1 text-center font-semibold pb-5">
-                Levis & Rose
+               Prasanna & Subha
               </h2>
 
 
@@ -303,7 +303,7 @@ export default function Page() {
   {/* -------- PRE WEDDING PHOTOS -------- */}
   <div className="flex flex-col gap-5">
     <Image
-      src="/drive_1.png"
+      src="/drive-1.jpg"
       alt="Pre Wedding Photos"
       width={1000}
       height={350}
@@ -315,7 +315,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -328,7 +328,7 @@ export default function Page() {
   {/* -------- WEDDING PHOTOS -------- */}
   <div className="flex flex-col gap-5">
     <Image
-      src="/drive_2.png"
+      src="/drive-2.jpg"
       alt="Wedding Photos"
       width={1000}
       height={350}
@@ -340,7 +340,7 @@ export default function Page() {
      
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -353,7 +353,7 @@ export default function Page() {
   {/* -------- CUSTOM PHOTOS -------- */}
   <div className="flex flex-col gap-5">
     <Image
-      src="/drive_3.png"
+      src="/drive-3.jpg"
       alt="Custom Photos"
       width={1000}
       height={350}
@@ -365,7 +365,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -403,7 +403,7 @@ export default function Page() {
 
             <div className="overflow-hidden">
               <Image
-                src="/img-6.png"
+                src="/img-1.jpg"
                 alt="Wedding Photography"
                 width={1000}
                 height={400}
@@ -414,7 +414,7 @@ export default function Page() {
             <div className="mt-6">
 
               <h2 className="text-[7.5vw] font-1 text-center font-semibold pb-5">
-                Levis & Rose
+               Prasanna & Subha
               </h2>
 
 
@@ -428,7 +428,7 @@ export default function Page() {
   {/* -------- PRE WEDDING PHOTOS -------- */}
   <div className="flex flex-col gap-5">
     <Image
-      src="/drive_1.png"
+      src="/drive-1.jpg"
       alt="Pre Wedding Photos"
       width={1000}
       height={350}
@@ -440,7 +440,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -453,7 +453,7 @@ export default function Page() {
   {/* -------- WEDDING PHOTOS -------- */}
   <div className="flex flex-col gap-5">
     <Image
-      src="/drive_2.png"
+      src="/drive-2.jpg"
       alt="Wedding Photos"
       width={1000}
       height={350}
@@ -465,7 +465,7 @@ export default function Page() {
      
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -478,7 +478,7 @@ export default function Page() {
   {/* -------- CUSTOM PHOTOS -------- */}
   <div className="flex flex-col gap-5">
     <Image
-      src="/drive_3.png"
+      src="/drive-3.jpg"
       alt="Custom Photos"
       width={1000}
       height={350}
@@ -490,7 +490,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"

@@ -61,7 +61,8 @@ function WeddingCount() {
 
         <div className="mx-4">
           <h1 className="font-1 text-[8vw] md:text-[4vw] lg:text-[3vw]">
-            Levis ❤️ Rose
+                        Prasanna ❤️ Subha
+
           </h1>
           <p className="font-2 text-[3.5vw] md:text-[1.8vw] lg:text-[1.3vw]">
             {time.after

@@ -6,10 +6,10 @@ import { Carousel } from 'antd';
 
 function Memorys() {
   const images = [
-    '/hero_1.png',
-    '/hero_2.png',
-    '/hero_3.png',
-    '/hero_4.png',
+    '/hero1.png',
+    '/hero2.png',
+    '/hero-3.png',
+    '/hero-4.png',
   ];
 
   const carouselRef = useRef(null);
@@ -56,10 +56,9 @@ function Memorys() {
           </Carousel>
       <div className='absolute bottom-[10%] left-1/2 -translate-x-1/2 text-center px-6 py-2 w-full'>
 
-        <p className='text-white font-4 text-[2.4vw]'>    Friends to Forever Love ❤️
-</p>
+        <p className='text-white font-4 text-[2.4vw]'>From strangers to soulmates   ❤️</p>
     <p className='text-white font-2 text-[1.5vw]'>
-From then to now — together forever</p>
+An arranged beginning, a forever love story.</p>
       </div>
         </div>
         
@@ -102,10 +101,9 @@ From then to now — together forever</p>
     <div className="absolute bottom-[6%] left-1/2 -translate-x-1/2 text-center  py-2 w-full">
 
   <p className="text-white font-4 text-[2.4vw]">
-    Friends to Forever Love ❤️
-  </p>
+From strangers to soulmates   ❤️  </p>
   <p className="text-white font-2 text-[1.2vw]">
-    From then to now — together forever.
+    An arranged beginning, a forever love story.
   </p>
 </div>
 
@@ -152,10 +150,9 @@ From then to now — together forever</p>
          <div className='absolute bottom-[5%] w-full text-center  py-2'>
      
       <p className="text-white font-4 text-[5vw]">
-    Friends to forever love ❤️
-  </p>
+From strangers to soulmates   ❤️  </p>
   <p className="text-white font-2 text-[3vw]">
-    From then to now — together forever.
+    An arranged beginning, a forever love story.
   </p> </div>
         </div>
         
@@ -200,10 +197,9 @@ From then to now — together forever</p>
       <div className='absolute bottom-[5%] w-full text-center  py-2'>
      
       <p className="text-white font-4 text-[5vw]">
-    Friends to Forever Love ❤️
-  </p>
+From strangers to soulmates   ❤️  </p>
   <p className="text-white font-2 text-[3vw]">
-    From then to now — together forever.
+    An arranged beginning, a forever love story..
   </p> </div>
         </div>
         

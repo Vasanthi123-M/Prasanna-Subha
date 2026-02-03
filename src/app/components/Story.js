@@ -16,8 +16,8 @@ export default function LoveStory() {
       {/* TITLE */}
       <div className="flex flex-col items-center mb-16">
         <Image src="/butterfly.png" alt="Butterfly" width={220} height={220} />
-        <h2 className="text-[2.2vw] font-1 font-semibold text-center">
-          OUR &nbsp;LOVE &nbsp;STORY
+        <h2 className="text-[3.2vw] font-1 font-semibold text-center">
+Our Story
         </h2>
       </div>
 
@@ -33,17 +33,17 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <div className="p-5 w-[45%] text-left">
-          <h4 className="text-[1.6vw] font-semibold">🌱 Childhood Friends</h4>
+          <h4 className="text-[1.6vw] font-semibold">🌱 A Beautiful Beginning</h4>
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-            We were childhood friends and grew up knowing each other like family.
-            <br />
-            Same memories, same laughter, same bond.
+Our story began with families, blessings, and destiny bringing us together.
+Two strangers, one meeting — and a journey written by fate.        
+           
           </p>
         </div>
 
         <Image
-          src="/our_story_1.png"
-          alt="Childhood Friends"
+          src="/our-story-1.png"
+          alt="A Beautiful Beginning"
           width={300}
           height={300}
           className="object-cover rounded-full"
@@ -63,7 +63,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <Image
-          src="/our_story_2.png"
+          src="/our-story-2.png"
           alt="College Love"
           width={300}
           height={300}
@@ -73,9 +73,10 @@ export default function LoveStory() {
 
 
      <div className="w-[45%] p-5">
-          <h4 className="text-[1.6vw] font-semibold">💍 The Proposal</h4>
+          <h4 className="text-[1.6vw] font-semibold">🤝 Our First Meet</h4>
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-          The day friendship officially turned into a promise of love 💖   </p>
+We met for the first time with shy smiles and nervous hearts.
+But somewhere between simple conversations, comfort slowly started growing.            </p>
         </div>
 
 
@@ -96,18 +97,16 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <div className="p-5 w-[45%] text-left">
-          <h4 className="text-[1.6vw] font-semibold">🎓 Love Began in College</h4>
+          <h4 className="text-[1.6vw] font-semibold">🤍 From Strangers to Soulmates</h4>
 
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-           Our friendship slowly turned into love during our college first year.
-          
-            That&apos;s when we realised — this connection is something special.
-         
+       A simple meeting turned into meaningful conversations,
+and those conversations slowly turned into love.
           </p>
         </div>
 
         <Image
-          src="/our_story_3.png"
+          src="/our-story-3.png"
           alt="The Proposal"
           width={300}
           height={300}
@@ -128,7 +127,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <Image
-          src="/our_story_4.png"
+          src="/our-story-4.png"
           alt="Years Together"
           width={300}
           height={300}
@@ -136,11 +135,10 @@ export default function LoveStory() {
         />
 
         <div className="w-[45%] p-5">
-          <h4 className="text-[1.6vw] font-semibold">❤️ 9 Years of Togetherness</h4>
+          <h4 className="text-[1.6vw] font-semibold">💍 The Promise</h4>
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-            Now, we are stepping into our 9th year of love,
-          
-            stronger, happier, and more confident than ever.
+          With families by our side and love in our hearts,
+we decided to walk this beautiful journey together — forever.
           </p>
         </div>
       </div>
@@ -172,8 +170,8 @@ export default function LoveStory() {
       {/* TITLE */}
       <div className="flex flex-col items-center mb-16">
         <Image src="/butterfly.png" alt="Butterfly" width={220} height={220} />
-        <h2 className="text-[2.2vw] font-1 font-semibold text-center">
-          OUR &nbsp;LOVE &nbsp;STORY
+        <h2 className="text-[3.2vw] font-1 font-semibold text-center">
+Our Story
         </h2>
       </div>
 
@@ -189,17 +187,16 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <div className="p-5 w-[45%] text-left">
-          <h4 className="text-[1.6vw] font-semibold">🌱 Childhood Friends</h4>
+          <h4 className="text-[1.6vw] font-semibold">🌱 A Beautiful Beginning</h4>
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-            We were childhood friends and grew up knowing each other like family.
-            <br />
-            Same memories, same laughter, same bond.
+Our story began with families, blessings, and destiny bringing us together.
+Two strangers, one meeting — and a journey written by fate.           
           </p>
         </div>
 
         <Image
-          src="/our_story_1.png"
-          alt="Childhood Friends"
+          src="/our-story-11.png"
+          alt="A Beautiful Beginning"
           width={300}
           height={300}
           className="object-cover rounded-full"
@@ -219,7 +216,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <Image
-          src="/our_story_2.png"
+          src="/our-story-2.png"
           alt="College Love"
           width={300}
           height={300}
@@ -229,9 +226,11 @@ export default function LoveStory() {
 
 
      <div className="w-[45%] p-5">
-          <h4 className="text-[1.6vw] font-semibold">💍 The Proposal</h4>
+          <h4 className="text-[1.6vw] font-semibold">🤝 Our First Meet</h4>
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-          The day friendship officially turned into a promise of love 💖   </p>
+          We met for the first time with shy smiles and nervous hearts.
+But somewhere between simple conversations, comfort slowly started growing.
+           </p>
         </div>
 
 
@@ -252,18 +251,16 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <div className="p-5 w-[45%] text-left">
-          <h4 className="text-[1.6vw] font-semibold">🎓 Love Began in College</h4>
+          <h4 className="text-[1.6vw] font-semibold">🤍 From Strangers to Soulmates</h4>
 
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-           Our friendship slowly turned into love during our college first year.
-          
-            That&apos;s when we realised — this connection is something special.
-         
+          A simple meeting turned into meaningful conversations,
+and those conversations slowly turned into love.
           </p>
         </div>
 
         <Image
-          src="/our_story_3.png"
+          src="/our-story-3.png"
           alt="The Proposal"
           width={300}
           height={300}
@@ -284,7 +281,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex items-center justify-between font-2">
         <Image
-          src="/our_story_4.png"
+          src="/our-story-4.png"
           alt="Years Together"
           width={300}
           height={300}
@@ -292,11 +289,10 @@ export default function LoveStory() {
         />
 
         <div className="w-[45%] p-5">
-          <h4 className="text-[1.6vw] font-semibold">❤️ 9 Years of Togetherness</h4>
+          <h4 className="text-[1.6vw] font-semibold">💍 The Promise</h4>
           <p className="text-[#7a8a9a] text-[1.1vw] mt-3 leading-relaxed">
-            Now, we are stepping into our 9th year of love,
-          
-            stronger, happier, and more confident than ever.
+          With families by our side and love in our hearts,
+we decided to walk this beautiful journey together — forever.
           </p>
         </div>
       </div>
@@ -326,8 +322,8 @@ export default function LoveStory() {
       {/* TITLE */}
       <div className="flex flex-col items-center mb-16">
         <Image src="/butterfly.png" alt="Butterfly" width={220} height={220} />
-        <h2 className="text-[5.2vw] font-1 font-semibold text-center">
-          OUR &nbsp;LOVE &nbsp;STORY
+        <h2 className="text-[6.7vw] font-1 font-semibold text-center">
+Our Story
         </h2>
       </div>
 
@@ -339,8 +335,8 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_1.png"
-          alt="Childhood Friends"
+          src="/our-story-11.png"
+          alt="A Beautiful Beginning"
           width={1000}
           height={1000}
           className="object-cover"
@@ -348,12 +344,11 @@ export default function LoveStory() {
 
         <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            🌱 Childhood Friends
+            🌱 A Beautiful Beginning
           </h4>
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            We were childhood friends and grew up knowing each other like family.
-           
-            Same memories, same laughter, same bond.
+           Our story began with families, blessings, and destiny bringing us together.
+Two strangers, one meeting — and a journey written by fate.
           </p>
         </div>
       </div>
@@ -363,7 +358,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_2.png"
+          src="/our-story-2.png"
           alt="College Love"
           width={1000}
           height={1000}
@@ -373,11 +368,12 @@ export default function LoveStory() {
 
         <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            💍 The Proposal
+            🤝 Our First Meet
           </h4>
         
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            The day friendship officially turned into a promise of love 💖
+We met for the first time with shy smiles and nervous hearts.
+But somewhere between simple conversations, comfort slowly started growing.
           </p>
         </div>
   
@@ -388,7 +384,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_3.png"
+          src="/our-story-3.png"
           alt="The Proposal"
           width={1000}
           height={1000}
@@ -396,12 +392,11 @@ export default function LoveStory() {
         />
       <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            🎓 Love Began in College
+            🤍 From Strangers to Soulmates
           </h4>
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            Our friendship slowly turned into love during our college first year.
-           
-            That&apos;s when we realised — this connection is something special.
+            A simple meeting turned into meaningful conversations,
+and those conversations slowly turned into love.
           </p>
         </div>
       </div>
@@ -411,7 +406,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_4.png"
+          src="/our-story-4.png"
           alt="Years of Togetherness"
           width={1000}
           height={1000}
@@ -420,12 +415,11 @@ export default function LoveStory() {
 
         <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            ❤️ 9 Years of Togetherness
+            💍 The Promise
           </h4>
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            Now, we are stepping into our 9th year of love,
-            <br />
-            stronger, happier, and more confident than ever.
+          With families by our side and love in our hearts,
+we decided to walk this beautiful journey together — forever.
           </p>
         </div>
       </div>
@@ -449,8 +443,8 @@ export default function LoveStory() {
       {/* TITLE */}
       <div className="flex flex-col items-center mb-16">
         <Image src="/butterfly.png" alt="Butterfly" width={220} height={220} />
-        <h2 className="text-[5.2vw] font-1 font-semibold text-center">
-          OUR &nbsp;LOVE &nbsp;STORY
+        <h2 className="text-[6.7vw] font-1 font-semibold text-center">
+Our Story
         </h2>
       </div>
 
@@ -462,8 +456,8 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_1.png"
-          alt="Childhood Friends"
+          src="/our-story-11.png"
+          alt="A Beautiful Beginning"
           width={1000}
           height={1000}
           className="object-cover"
@@ -471,12 +465,11 @@ export default function LoveStory() {
 
         <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            🌱 Childhood Friends
+            🌱 A Beautiful Beginning
           </h4>
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            We were childhood friends and grew up knowing each other like family.
-           
-            Same memories, same laughter, same bond.
+           Our story began with families, blessings, and destiny bringing us together.
+Two strangers, one meeting — and a journey written by fate.
           </p>
         </div>
       </div>
@@ -486,7 +479,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_2.png"
+          src="/our-story-2.png"
           alt="College Love"
           width={1000}
           height={1000}
@@ -496,11 +489,12 @@ export default function LoveStory() {
 
         <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            💍 The Proposal
+            🤝 Our First Meet
           </h4>
         
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            The day friendship officially turned into a promise of love 💖
+We met for the first time with shy smiles and nervous hearts.
+But somewhere between simple conversations, comfort slowly started growing.
           </p>
         </div>
   
@@ -511,7 +505,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_3.png"
+          src="/our-story-3.png"
           alt="The Proposal"
           width={1000}
           height={1000}
@@ -519,12 +513,11 @@ export default function LoveStory() {
         />
       <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            🎓 Love Began in College
+            🤍 From Strangers to Soulmates
           </h4>
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            Our friendship slowly turned into love during our college first year.
-           
-            That&apos;s when we realised — this connection is something special.
+            A simple meeting turned into meaningful conversations,
+and those conversations slowly turned into love.
           </p>
         </div>
       </div>
@@ -534,7 +527,7 @@ export default function LoveStory() {
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our_story_4.png"
+          src="/our-story-4.png"
           alt="Years of Togetherness"
           width={1000}
           height={1000}
@@ -543,12 +536,11 @@ export default function LoveStory() {
 
         <div className="w-full px-[10%] p-5">
           <h4 className="text-[5vw] font-semibold text-center">
-            ❤️ 9 Years of Togetherness
+            💍 The Promise
           </h4>
           <p className="text-[#7a8a9a] text-[3.2vw] font-3 text-center mt-3 leading-relaxed">
-            Now, we are stepping into our 9th year of love,
-            <br />
-            stronger, happier, and more confident than ever.
+            With families by our side and love in our hearts,
+we decided to walk this beautiful journey together — forever.
           </p>
         </div>
       </div>

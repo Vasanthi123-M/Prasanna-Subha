@@ -10,10 +10,10 @@ export default function Footer() {
         <footer className="pt-6 bg-pink-200 opacity-75">
           <div className="flex justify-center items-center">
             <Image
-              src="/logo.png"
+              src="/logo_1.png"
               alt="logo"
-              width={150}
-              height={150}
+              width={250}
+              height={250}
               className="object-contain"
             />{" "}
           </div>
@@ -58,10 +58,10 @@ export default function Footer() {
         <footer className="pt-6 bg-pink-200 opacity-75">
           <div className="flex justify-center items-center">
             <Image
-              src="/logo.png"
+              src="/logo_1.png"
               alt="logo"
-              width={150}
-              height={150}
+              width={250}
+              height={250}
               className="object-contain"
             />{" "}
           </div>
@@ -107,10 +107,10 @@ export default function Footer() {
         <footer className="py-[5%] bg-pink-200 opacity-75">
           <div className="flex justify-center items-center">
             <Image
-              src="/logo.png"
+              src="/logo_1.png"
               alt="logo"
-              width={130}
-              height={130}
+              width={300}
+              height={150}
               className="object-contain"
             />
           </div>
@@ -156,9 +156,9 @@ export default function Footer() {
         <footer className="py-[5%] bg-pink-200 opacity-75">
           <div className="flex justify-center items-center">
             <Image
-              src="/logo.png"
+              src="/logo_1.png"
               alt="logo"
-              width={130}
+              width={300}
               height={130}
               className="object-contain"
             />
