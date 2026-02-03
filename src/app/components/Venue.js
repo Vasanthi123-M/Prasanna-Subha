@@ -66,7 +66,7 @@ export default function WeddingScheduleGrid() {
           </div>
 
           <div className="border  border-[#e7cfc7] flex items-center justify-center p-4">
-            <Image src="/our-wedding-2.jpeg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
+            <Image src="/our-wedding.jpeg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
          </div>
 
           <div className="border border-[#e7cfc7]  items-center flex flex-col justify-center ">
@@ -151,7 +151,7 @@ Mr.Prasanna +91 8667676919
 
 
           <div className="border  border-[#e7cfc7] flex items-center justify-center p-4">
-            <Image src="/our-wedding-2.jpeg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
+            <Image src="/our-wedding.jpeg" alt="Decor" width={1000} height={1000} className='h-[300] w-[300] object-cover'/>
          </div>
 
           <div className="border border-[#e7cfc7]  items-center flex flex-col justify-center ">
@@ -208,7 +208,7 @@ Prasanna +91 8667676919
           {/* RIGHT TOP */}
           <div className="relative border border-[#e7cfc7] flex items-center justify-center p-4">
             <div className="relative">
-              <Image src="/our-wedding-2.jpeg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our-wedding.jpeg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
               <div className="absolute inset-0 flex items-center justify-center">
                
               </div>
@@ -291,7 +291,7 @@ Prasanna +91 8667676919
           {/* RIGHT TOP */}
           <div className="relative border border-[#e7cfc7] flex items-center justify-center p-4">
             <div className="relative">
-              <Image src="/our_wedding-2.jpeg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
+              <Image src="/our-wedding.jpeg" alt="Party" width={1000} height={1000} className='h-[300] w-[300] object-cover' />
               <div className="absolute inset-0 flex items-center justify-center">
                
               </div>

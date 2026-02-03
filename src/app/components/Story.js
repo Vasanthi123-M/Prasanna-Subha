@@ -42,7 +42,7 @@ Two strangers, one meeting — and a journey written by fate.
         </div>
 
         <Image
-          src="/our-story-1.png"
+          src="/our-story.png"
           alt="A Beautiful Beginning"
           width={300}
           height={300}
@@ -195,7 +195,7 @@ Two strangers, one meeting — and a journey written by fate.
         </div>
 
         <Image
-          src="/our-story-11.png"
+          src="/our-story.png"
           alt="A Beautiful Beginning"
           width={300}
           height={300}
@@ -335,7 +335,7 @@ Our Story
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our-story-11.png"
+          src="/our-story.png"
           alt="A Beautiful Beginning"
           width={1000}
           height={1000}
@@ -456,7 +456,7 @@ Our Story
     <div className="relative">
       <div className="flex flex-col py-6 items-center justify-center font-2">
         <Image
-          src="/our-story-11.png"
+          src="/our-story.png"
           alt="A Beautiful Beginning"
           width={1000}
           height={1000}
