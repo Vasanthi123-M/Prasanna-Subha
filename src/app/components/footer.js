@@ -44,10 +44,12 @@ export default function Footer() {
             </Link>
           </div>
 
-          <p className="text-center  px-5 font-2 text-gray-500 pt-10 pb-6 text-[1vw]">
+          <div className="text-center flex flex-row justify-center items-center px-5 font-2 text-gray-500 pt-10 pb-6 text-[1vw]">
             {" "}
-            @Copyright 2026 | Zenth Tech | All right reserved.
-          </p>
+         <p> @Copyright 2026 |</p> 
+       <p> <Link href="https://www.zenth.in/" className=" cursor-pointer">Zenth Tech |</Link>   </p> 
+         <p>All right reserved.</p>
+          </div>
         </footer>
       </div>
       {/* Desktop */}
@@ -92,10 +94,13 @@ export default function Footer() {
             </Link>
           </div>
 
-          <p className="text-center  px-5 font-2 text-gray-500 pt-10 pb-6 text-[1vw]">
+          <div className="text-center flex flex-row justify-center items-center px-5 font-2 text-gray-500 pt-10 pb-6 text-[1vw]">
             {" "}
-            @Copyright 2026 | Zenth Tech | All right reserved.
-          </p>
+         <p> @Copyright 2026 |</p> 
+       <p> <Link href="https://www.zenth.in/" className=" cursor-pointer">Zenth Tech |</Link>   </p> 
+         <p>All right reserved.</p>
+          </div>
+         
         </footer>
       </div>
 
@@ -142,10 +147,13 @@ export default function Footer() {
               Gallery
             </Link>
           </div>
-          <p className="text-center  px-5 font-2 text-gray-500 text-[3vw]">
+            <div className="text-center flex flex-row justify-center items-center px-5 font-2 text-gray-500 pt-10 pb-6 text-[3vw]">
             {" "}
-            @Copyright 2026 | Zenth Tech | All right reserved.
-          </p>
+         <p> @Copyright 2026 |</p> 
+       <p> <Link href="https://www.zenth.in/" className=" cursor-pointer">Zenth Tech |</Link>   </p> 
+         <p>All right reserved.</p>
+          </div>
+         
         </footer>
       </div>
 
@@ -191,10 +199,12 @@ export default function Footer() {
               Gallery
             </Link>
           </div>
-          <p className="text-center  px-5 font-2 text-gray-500 text-[3vw]">
+          <div className="text-center flex flex-row justify-center items-center px-5 font-2 text-gray-500 pt-10 pb-6 text-[3vw]">
             {" "}
-            @Copyright 2026 | Zenth Tech | All right reserved.
-          </p>
+         <p> @Copyright 2026 |</p> 
+       <p> <Link href="https://www.zenth.in/" className=" cursor-pointer">Zenth Tech |</Link>   </p> 
+         <p>All right reserved.</p>
+          </div>
         </footer>
       </div>
 

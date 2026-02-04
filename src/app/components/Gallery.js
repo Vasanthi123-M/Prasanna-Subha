@@ -63,7 +63,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
+        href="https://drive.google.com/drive/folders/14qVQiMwqqK8bnPVYN40xOMq_CkPzrKyl?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -89,7 +89,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
+        href="https://drive.google.com/drive/folders/1_FXygishwqbI0KlqJSNY1WKxg3K27GIH?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -115,7 +115,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -188,7 +188,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
+        href="https://drive.google.com/drive/folders/14qVQiMwqqK8bnPVYN40xOMq_CkPzrKyl?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -214,7 +214,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
+        href="https://drive.google.com/drive/folders/1_FXygishwqbI0KlqJSNY1WKxg3K27GIH?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -240,7 +240,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -315,7 +315,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
+        href="https://drive.google.com/drive/folders/14qVQiMwqqK8bnPVYN40xOMq_CkPzrKyl?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -340,7 +340,7 @@ export default function Page() {
      
 
       <Link
-        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
+        href="https://drive.google.com/drive/folders/1_FXygishwqbI0KlqJSNY1WKxg3K27GIH?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -365,7 +365,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -440,7 +440,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1Ek66f2anA7sncKUPtmM14LFdp6gmtYLw?usp=sharing"
+        href="https://drive.google.com/drive/folders/14qVQiMwqqK8bnPVYN40xOMq_CkPzrKyl?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -465,7 +465,7 @@ export default function Page() {
      
 
       <Link
-        href="https://drive.google.com/drive/folders/1kxHYryrjFvfB2Ui7BE7yEq-RhCxG3qf0"
+        href="https://drive.google.com/drive/folders/1_FXygishwqbI0KlqJSNY1WKxg3K27GIH?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -490,7 +490,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW"
+        href="https://drive.google.com/drive/folders/1T-DOk5wJj4DPt3e28etnU8ALuuWVbDCW?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
